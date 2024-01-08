@@ -176,7 +176,7 @@ button {
   border-radius: 364.844px;
 }
 .slaes {
-  margin: 50px 50px 50px 132.5px;
+  margin: 50px 50px 50px 100px;
 }
 .sales-content{
   text-align: center;
@@ -186,7 +186,8 @@ button {
   font-family: Inter;
   font-weight: 400;
   width: 971.88px;
-  padding-left: 150px;
+  padding-left: 150px ;
+  padding-bottom: 50px;
 }
 .sales-des {
   color: #070211;
@@ -194,6 +195,7 @@ button {
   font-size: 24px;
   font-weight: 500;
   padding-top: 90px;
+  padding-right: 10px;
 }
 .sales-title {
   color: #070211;
@@ -206,15 +208,33 @@ button {
   font-weight: 900;
 }
 .img4 {
-  padding: 430px 0px 0px 0px;
+  padding: 50px 0px 0px 0px;
   width: 1320px;
-height: 160px;
+height: 190px;
 
 } 
 .sales-img{
- background-image: url('../resources/Group\ 44.png'),url('../resources/Rectangle\ 1.png');
+ background-image:url('../resources/Rectangle\ 1.png');
  background-repeat: no-repeat;
-
-background-position: center ,right top;
-
+width: min-content;
+background-position:  right top;
 }
+.img5{
+  /* padding: 45px 0px 0px 700px; */
+}
+/* .sales-img2{
+  background-image: url(../resources/Group\ 75.png);
+background-repeat: no-repeat;
+background-position:top left;
+background-size: 40%;
+background-blend-mode: lighten;
+
+} */
+.sales-img2{
+  display: flex;
+  width: 278.09px;
+  height: 333.424px;
+ 
+}
+
+
