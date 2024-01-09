@@ -248,6 +248,7 @@ justify-content: space-between;
 margin-bottom: 24px;
 
 }
+
 .pic-raw2{
   display: flex;
   justify-content: space-between;
@@ -256,9 +257,29 @@ margin-bottom: 24px;
 .pic8{
   padding-left: 25px;
 }
+
 .pic9{
   padding-left: 23px;
 }
+#pic1:hover{
+  background-color:lightgray;
+}
+#pic2:hover{
+  background-color:lightgray;
+}
+#pic3:hover{
+  background-color:lightgray;
+}
+#pic4:hover{
+  background-color:lightgray;
+}
+#pic5:hover{
+  background-color:lightgray;
+}
+#pic6:hover{
+  background-color:lightgray;
+}
+
 .submit{
   background: rgba(255, 0, 0, 0.05);
   border-radius: 16px;
