@@ -1,5 +1,6 @@
 * {
   font-family: "Merriweather", serif;
+
 }
 header {
   background-image: url("../resources/Banner\ Image.png");
@@ -240,6 +241,7 @@ padding: 0px 0px 0px 110px;
   width: 871.88px;
   
 }
+
 .pic-raw1{
  display: flex;
 justify-content: space-between;
@@ -249,6 +251,7 @@ margin-bottom: 24px;
 .pic-raw2{
   display: flex;
   justify-content: space-between;
+
  }
 .pic8{
   padding-left: 25px;
