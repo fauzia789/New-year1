@@ -170,9 +170,9 @@ span {
 .third-layer .third-img img {
   border-radius: 363px;
   border: 15px solid #f00;
-  width: 363px;
-  height: 363px;
-  border-radius: 364.844px;
+  padding: 30px;
+  width: 263px;
+  height: 263px;
 }
 .slaes {
   margin: 30px 50px 50px 100px;
@@ -218,13 +218,17 @@ span {
   background-position: right top;
 }
 .sales-img2 {
-  display: flex;
   width: 278.09px;
-  height: 333.424px;
-  gap: 50%;
+  height: 342.424px;
 }
 .img5 {
-  padding: 65px 0px 0px 170px;
+  padding: 65px 0px 0px 700px;
+}
+.img7{
+ position: absolute;
+ width: 36%;
+ height: 67%;
+padding: 0px 0px 0px 110px;
 }
 .pic{
   margin: 90px 50px 50px 0px;
@@ -302,7 +306,7 @@ font-weight: 600;
 text-transform: capitalize;
 }
 hr{
-  background: rgba(255, 255, 255, 0.15);
+  
   width: 1320px;
 height: 0px;
 }
